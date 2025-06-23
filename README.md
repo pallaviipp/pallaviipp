@@ -1,4 +1,4 @@
-# [Hi, this is Pallavi!]  
+# Hi, this is Pallavi! 
 ### Data Engineering | Python | SQL | ETL  
 
 **Focus Areas:** Building reliable data pipelines, optimizing SQL queries, and automating data workflows.  
