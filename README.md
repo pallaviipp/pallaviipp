@@ -15,9 +15,9 @@
 ---
 
 
-## 📚 **Learning**  
+##  **Learning**  
 - Currently studying: **Apache Kafka for real-time streaming**  
-- Recent certification: **[AWS Solutions Architect Associate / Associate Data Engineering Track SQL ]** 
+- Recent certification: **AWS Solutions Architect Associate / Associate Data Engineering Track SQL** 
 
 ---
 
