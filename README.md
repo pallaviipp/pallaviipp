@@ -22,5 +22,5 @@
 ---
 
 ## 📩 **Contact**  
-- LinkedIn: [www.linkedin.com/pallavipaudel]  
-- Email: [pallavipaudel@gmail.com]  
+- LinkedIn: www.linkedin.com/pallavipaudel  
+- Email: pallavipaudel@gmail.com 
