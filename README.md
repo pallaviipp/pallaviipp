@@ -1,7 +1,7 @@
 # Hi, this is Pallavi! 
 ### Data Engineering | Python | SQL | ETL  
 
-**Focus Areas:** Building reliable data pipelines, optimizing SQL queries, and automating data workflows.  
+
 
 ---
 
@@ -9,5 +9,5 @@
 **Languages:** Python, SQL, Bash  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis 
 **Data Tools:** Pandas, PySpark, Apache Airflow  
-**Cloud/Infra:** AWS (S3, Lambda, Glue), Docker, Terraform (Basics)  
+**Cloud/Infra:** AWS (S3, Lambda, EC2)  
 **Version Control:** Git, GitHub Actions  
